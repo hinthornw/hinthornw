@@ -1,12 +1,12 @@
-Chief pastry purveyor at LangChain. Previously machine learning and research at Microsoft & Robust Intelligence.
-
-Fan of parrots, of vowels, of trees, and gradients. 
-
-Chain rule is all we need.
-
-Add this view counter to your profile, but don't tell Brace:
-
-[![Hits](https://www.sproul.dev/api/gh-viewer)](https://www.sproul.dev/api/gh-viewer)
+```bash
+$ whois hinthornw
+Name.........: William Fu-Hinthorn
+Day Job........: Founding Engineer @ LangChain
+Moonlighting as: Pastry purveyor @ LangChain
+Background...: Microsoft Research • Robust Intelligence
+Coordinates..: Stateful agents | Memory systems | Eval pipelines
+Interests.......: 🦜  vowels  🌲  ∂/∂x  🥐 ☕️
+```
 
 <!--
 **hinthornw/hinthornw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
