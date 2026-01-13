@@ -1,8 +1,8 @@
 ```bash
 $ whois hinthornw
 Name.........: William Fu-Hinthorn
-Day Job........: Founding Engineer @ LangChain
-Moonlighting as: Pastry purveyor @ LangChain
+Day Job........: Founding Engineer @ LangChainAI
+Moonlighting as: Pastry purveyor @ LangChainAI
 Background...: Microsoft Research • Robust Intelligence
 Coordinates..: Stateful agents | Memory systems | Eval pipelines
 Interests.......: 🦜  vowels  🌲  ∂/∂x  🥐 ☕️
